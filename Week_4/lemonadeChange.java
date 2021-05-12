@@ -1,7 +1,10 @@
 /**
 @Descriptor 柠檬水找零
+https://leetcode-cn.com/problems/lemonade-change/description/
+输入：[5,5,5,10,20]
+输出：true
 @auth luoye
-@Date 2021-5-12 22:26:35
+@Date 2021-5-12
 **/
 public class lemonadeChange{
   public boolean lemonadeChange(int[] bills) {
