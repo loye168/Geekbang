@@ -1,5 +1,6 @@
 /**
 @Descriptor 有效的数独
+https://leetcode-cn.com/problems/valid-sudoku/description/
 输入：
 board = [["5","3",".",".","7",".",".",".","."]
 ,["6",".",".","1","9","5",".",".","."]
